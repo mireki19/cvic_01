@@ -1,2 +1,1 @@
-# cvic_01
-Cvičení lekce 01
+Proměnné a práce s nimi
